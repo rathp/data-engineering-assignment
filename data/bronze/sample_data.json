@@ -1,0 +1,4 @@
+{"patient_id": "P001", "timestamp": "2024-01-01T08:30:00", "heart_rate": 80, "blood_pressure": 120}
+{"patient_id": "P002", "timestamp": "2024-01-01T09:00:00", "heart_rate": 75, "blood_pressure": 118}
+{"patient_id": "P001", "timestamp": "2024-01-01T10:00:00", "heart_rate": 85, "blood_pressure": 125}
+{"patient_id": null, "timestamp": "2024-01-01T11:00:00", "heart_rate": 78, "blood_pressure": 110}
